@@ -16,7 +16,7 @@ The application is automatically deployed when changes are pushed to the main br
 ## Access
 
 After deployment, the application will be available at:
-`https://wisecow.YOUR_DOMAIN`
+`at your domain
 
 ## Local Development
 
